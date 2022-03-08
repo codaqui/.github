@@ -6,7 +6,7 @@ Isso mesmo! Queremos ensinar crianças e jovens a programar, ou melhor, a aprend
 
 # Quero participar!
 
-Por favor converse com seus responsáveis e preencha o seguinte formulário: [Clique aqui.](https://forms.gle/Tvq8Wx3MMNMKV5Tr8) esse é nosso primeiro passo para começarmos a aprender juntos.
+Por favor converse com seus responsáveis, depois conheça um pouco mais do nosso dia a dia [clicando aqui.](https://codaqui.dev), esse é nosso primeiro passo para começarmos a aprender juntos.
 
 # Quero ser voluntário!
 
