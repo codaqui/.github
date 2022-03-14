@@ -10,7 +10,7 @@ Por favor converse com seus responsáveis, depois conheça um pouco mais do noss
 
 # Quero ser voluntário!
 
-Entre em contato pelo [e-mail](mailto:faleconosco@codaqui.dev) ou [e-mail](mailto:enderson@codaqui.dev) e vamos conversar! Temos muito chão para construir! 😊
+Entre em contato pelo [e-mail](mailto:contato@codaqui.dev) e vamos conversar! Temos muito chão para construir! 😊
 
 # Materiais
 
