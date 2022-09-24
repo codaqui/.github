@@ -8,11 +8,11 @@ Isso mesmo! Queremos ensinar crianças e jovens a programar, ou melhor, a aprend
 
 # Quero participar!
 
-Por favor converse com seus responsáveis, depois conheça um pouco mais do nosso dia a dia [clicando aqui.](https://www.codaqui.dev/quero/estudar/)), esse é nosso primeiro passo para começarmos a aprender juntos.
+Por favor converse com seus responsáveis, depois conheça um pouco mais do nosso dia a dia [clicando aqui.](https://www.codaqui.dev/quero/estudar/), esse é nosso primeiro passo para começarmos a aprender juntos.
 
 # Quero ser voluntário!
 
-Acesse [aqui] nosso manual completo de como apoiar a Codaqui. Se precisar também entre em contato pelo [e-mail](mailto:contato@codaqui.dev) e vamos conversar! Temos muito chão para construir! 😊
+Acesse [aqui](https://www.codaqui.dev/quero/apoiar/) nosso manual completo de como apoiar a Codaqui. Se precisar também entre em contato pelo [e-mail](mailto:contato@codaqui.dev) e vamos conversar! Temos muito chão para construir! 😊
 
 # Materiais
 
