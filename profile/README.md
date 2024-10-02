@@ -1,6 +1,6 @@
 ![Imagem do Topo](https://github.com/codaqui/institucional/blob/main/images/header.png)
 
-![Imagem de Patrocinadores](https://opencollective.com/codaqui/tiers/badge.svg)
+[![Imagem de Patrocinadores](https://opencollective.com/codaqui/tiers/badge.svg)](https://opencollective.com/codaqui)
 
 # Quem somos?
 
