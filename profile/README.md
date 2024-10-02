@@ -1,5 +1,7 @@
 ![Imagem do Topo](https://github.com/codaqui/institucional/blob/main/images/header.png)
 
+![Imagem de Patrocinadores](https://opencollective.com/codaqui/tiers/badge.svg)
+
 # Quem somos?
 
 Oi, tudo bem?! Eu sou a Codaqui, uma escola digital e informal que funciona de maneira colaborativa! Basicamente o nosso propósito é criar um ambiente saudável e colaborativo para o aprendizado tecnológico de Crianças e Jovens. 
