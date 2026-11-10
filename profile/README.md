@@ -1,4 +1,4 @@
-![Imagem do Topo](https://github.com/codaqui/institucional/blob/main/images/header.png)
+![Imagem do Topo](https://github.com/codaqui/institucional/blob/main/static/img/header.png)
 
 [![Imagem de Patrocinadores](https://opencollective.com/codaqui/tiers/badge.svg)](https://opencollective.com/codaqui)
 
@@ -14,11 +14,11 @@ Fique por dentro das novidades, além de interagir com alunos e com toda a comun
 
 # Quero participar!
 
-Por favor converse com seus responsáveis, depois conheça um pouco mais do nosso dia a dia [clicando aqui](https://www.codaqui.dev/quero/estudar/), esse é nosso primeiro passo para começarmos a aprender juntos.
+Por favor converse com seus responsáveis, depois conheça um pouco mais do nosso dia a dia [clicando aqui](https://www.codaqui.dev/participe/estudar/), esse é nosso primeiro passo para começarmos a aprender juntos.
 
 # Quero ser voluntário!
 
-Acesse [aqui](https://www.codaqui.dev/quero/apoiar/) nosso manual completo de como apoiar a Codaqui. Se precisar também entre em contato pelo [e-mail](mailto:contato@codaqui.dev) e vamos conversar! Temos muito chão para construir! 😊
+Acesse [aqui](https://www.codaqui.dev/participe/apoiar/) nosso manual completo de como apoiar a Codaqui. Se precisar também entre em contato pelo [e-mail](mailto:contato@codaqui.dev) e vamos conversar! Temos muito chão para construir! 😊
 
 # Materiais
 
